@@ -18,7 +18,7 @@ void main(){
   }
   */
 
-  var nilai = 'S';// A B C D E 
+  var nilai = '';// A B C D E 
   switch (nilai) {
     case 'A':
       print('Sangat Baik');
